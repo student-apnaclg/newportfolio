@@ -205,13 +205,15 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      a:"https://github.com/student-apnaclg",
     },
-    {
-      id: 2,
-      img: "/twit.svg",
-    },
+    // {
+    //   id: 2,
+    //   img: "/twit.svg",
+    // },
     {
       id: 3,
       img: "/link.svg",
+      a:"https://www.linkedin.com/in/nandini-verma202255/",
     },
   ];
